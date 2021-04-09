@@ -10,7 +10,7 @@ export class QueueCommand extends Command {
     execute(author: User, message: Message, channel: Channel, args: string[], guild: Guild | null) {
 
         /*
-        
+
          */
 
     }
